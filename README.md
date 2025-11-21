@@ -44,8 +44,8 @@ or
    git clone https://https://github.com/Akoi100/PLP-Final-Project-Employee-Management-System.git
  
 
-2. change directory into backend install dependencies using npm i and run the app using **npm run dev**
-    bash
+2. change directory into backend install dependencies using **npm i** and run the app using **npm run dev**
+   ```bash
     cd backend
     npm i
     npm run dev
@@ -56,3 +56,4 @@ or
     npm i
 
     npm run dev
+
