@@ -17,7 +17,7 @@ https://employee-management-system-iblm.onrender.com/login
 
 Logins for:
 1. **Admin (HR);**
-   email; happiness@gmail.com
+   email; dvock100@gmail.com
    password; qwerty
 
 
