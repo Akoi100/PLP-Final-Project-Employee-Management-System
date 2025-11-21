@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6856d722ba089a99e0bcece8"
+  },
+  "name": "Sales",
+  "description": "Sales department responsible for driving revenue growth, managing client relationships, and closing deals to meet business targets.",
+  "employees": [
+    {
+      "$oid": "6856d726ba089a99e0bcecec"
+    },
+    {
+      "$oid": "6859bdd1325880888d0a3745"
+    },
+    {
+      "$oid": "685a50913689c9ba4df320b2"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-06-21T16:00:34.754Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:15:29.051Z"
+  },
+  "__v": 3
+}]

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "685d02597af215dcc809d14d"
+  },
+  "employee": {
+    "$oid": "6859bdd1325880888d0a3745"
+  },
+  "leaveType": {
+    "$oid": "685d02287af215dcc809d0b0"
+  },
+  "startDate": {
+    "$date": "2025-06-25T21:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-12-21T21:00:00.000Z"
+  },
+  "numberOfDays": 180,
+  "status": "Approved",
+  "approver": null,
+  "approvedDate": {
+    "$date": "2025-06-26T08:18:33.884Z"
+  },
+  "createdAt": {
+    "$date": "2025-06-26T08:18:33.886Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-26T08:18:33.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139c7cdb2a9978e94e2d4"
+  },
+  "employee": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "leaveType": {
+    "$oid": "685d02287af215dcc809d0b0"
+  },
+  "startDate": {
+    "$date": "2025-07-10T21:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-01-05T21:00:00.000Z"
+  },
+  "numberOfDays": 180,
+  "status": "Approved",
+  "approver": null,
+  "approvedDate": {
+    "$date": "2025-07-11T16:20:23.042Z"
+  },
+  "createdAt": {
+    "$date": "2025-07-11T16:20:23.042Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:23.042Z"
+  },
+  "__v": 0
+}]

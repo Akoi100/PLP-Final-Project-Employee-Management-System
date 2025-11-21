@@ -1,0 +1,917 @@
+[{
+  "_id": {
+    "$oid": "6896e1b85cf66533d1b664d7"
+  },
+  "employee": {
+    "$oid": "6889f540af0ead9956051ca9"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-07-31T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-08-30T21:00:00.000Z"
+    },
+    "month": 8,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 0,
+    "regularHours": 0,
+    "overtimeHours": 0,
+    "daysPresent": 0,
+    "daysLate": 0,
+    "daysAbsent": 1
+  },
+  "salaryBreakdown": {
+    "basicSalary": 50000,
+    "hourlyRate": 312.5,
+    "overtimeRate": 468.75,
+    "regularPay": 0,
+    "overtimePay": 0,
+    "grossPay": 0
+  },
+  "deductions": {
+    "paye": 0,
+    "nhif": 0,
+    "nssf": 0,
+    "totalDeductions": 0
+  },
+  "netPay": 0,
+  "status": "Processed",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-09T05:50:48.606Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-09T05:50:48.611Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-09T05:50:48.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6896e1b85cf66533d1b664dd"
+  },
+  "employee": {
+    "$oid": "6889f59daf0ead9956051cda"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-07-31T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-08-30T21:00:00.000Z"
+    },
+    "month": 8,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 10,
+    "regularHours": 8,
+    "overtimeHours": 2,
+    "daysPresent": 1,
+    "daysLate": 0,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 70000,
+    "hourlyRate": 437.5,
+    "overtimeRate": 656.25,
+    "regularPay": 3500,
+    "overtimePay": 1312.5,
+    "grossPay": 4812.5
+  },
+  "deductions": {
+    "paye": 481,
+    "nhif": 150,
+    "nssf": 288.75,
+    "totalDeductions": 919.75
+  },
+  "netPay": 3892.75,
+  "status": "Paid",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-09T05:50:48.643Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-09T05:50:48.647Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-24T07:18:25.266Z"
+  },
+  "__v": 0,
+  "paidDate": {
+    "$date": "2025-08-24T07:18:25.247Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6896e1b85cf66533d1b664e3"
+  },
+  "employee": {
+    "$oid": "688a72b94e7dbf883b0d2e7c"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-07-31T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-08-30T21:00:00.000Z"
+    },
+    "month": 8,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 12.01,
+    "regularHours": 8,
+    "overtimeHours": 4.005900277777778,
+    "daysPresent": 1,
+    "daysLate": 0,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 90000,
+    "hourlyRate": 562.5,
+    "overtimeRate": 843.75,
+    "regularPay": 4500,
+    "overtimePay": 3379.9783593750003,
+    "grossPay": 7879.978359375
+  },
+  "deductions": {
+    "paye": 788,
+    "nhif": 300,
+    "nssf": 472.79870156249996,
+    "totalDeductions": 1560.7987015625
+  },
+  "netPay": 6319.1796578124995,
+  "status": "Paid",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-09T05:50:48.656Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-09T05:50:48.658Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T07:52:43.469Z"
+  },
+  "__v": 0,
+  "paidDate": {
+    "$date": "2025-08-23T07:52:43.468Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6896e1b85cf66533d1b664e9"
+  },
+  "employee": {
+    "$oid": "688a73104e7dbf883b0d2eb2"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-07-31T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-08-30T21:00:00.000Z"
+    },
+    "month": 8,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 10.01,
+    "regularHours": 8,
+    "overtimeHours": 2.0052569444444437,
+    "daysPresent": 0,
+    "daysLate": 1,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 120000,
+    "hourlyRate": 750,
+    "overtimeRate": 1125,
+    "regularPay": 6000,
+    "overtimePay": 2255.914062499999,
+    "grossPay": 8255.9140625
+  },
+  "deductions": {
+    "paye": 826,
+    "nhif": 400,
+    "nssf": 495.35484375,
+    "totalDeductions": 1721.3548437499999
+  },
+  "netPay": 6534.559218750001,
+  "status": "Paid",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-09T05:50:48.667Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-09T05:50:48.669Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-16T09:25:56.542Z"
+  },
+  "__v": 0,
+  "paidDate": {
+    "$date": "2025-08-16T09:25:56.539Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6896e1b85cf66533d1b664ef"
+  },
+  "employee": {
+    "$oid": "688a736a4e7dbf883b0d2ee8"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-07-31T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-08-30T21:00:00.000Z"
+    },
+    "month": 8,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 0,
+    "regularHours": 0,
+    "overtimeHours": 0,
+    "daysPresent": 0,
+    "daysLate": 0,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 100000,
+    "hourlyRate": 625,
+    "overtimeRate": 937.5,
+    "regularPay": 0,
+    "overtimePay": 0,
+    "grossPay": 0
+  },
+  "deductions": {
+    "paye": 0,
+    "nhif": 0,
+    "nssf": 0,
+    "totalDeductions": 0
+  },
+  "netPay": 0,
+  "status": "Paid",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-09T05:50:48.676Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-09T05:50:48.677Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-16T07:24:28.719Z"
+  },
+  "__v": 0,
+  "paidDate": {
+    "$date": "2025-08-16T07:24:28.718Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6896e1b85cf66533d1b664f5"
+  },
+  "employee": {
+    "$oid": "688a73a74e7dbf883b0d2f1a"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-07-31T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-08-30T21:00:00.000Z"
+    },
+    "month": 8,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 10,
+    "regularHours": 8,
+    "overtimeHours": 2,
+    "daysPresent": 1,
+    "daysLate": 0,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 130000,
+    "hourlyRate": 812.5,
+    "overtimeRate": 1218.75,
+    "regularPay": 6500,
+    "overtimePay": 2437.5,
+    "grossPay": 8937.5
+  },
+  "deductions": {
+    "paye": 894,
+    "nhif": 400,
+    "nssf": 536.25,
+    "totalDeductions": 1830.25
+  },
+  "netPay": 7107.25,
+  "status": "Paid",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-09T05:50:48.684Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-09T05:50:48.685Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-16T07:24:20.225Z"
+  },
+  "__v": 0,
+  "paidDate": {
+    "$date": "2025-08-16T07:24:20.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6896e1b85cf66533d1b664fb"
+  },
+  "employee": {
+    "$oid": "688a75694e7dbf883b0d3174"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-07-31T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-08-30T21:00:00.000Z"
+    },
+    "month": 8,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 12.02,
+    "regularHours": 8,
+    "overtimeHours": 4.016179166666667,
+    "daysPresent": 1,
+    "daysLate": 0,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 60000,
+    "hourlyRate": 375,
+    "overtimeRate": 562.5,
+    "regularPay": 3000,
+    "overtimePay": 2259.10078125,
+    "grossPay": 5259.10078125
+  },
+  "deductions": {
+    "paye": 526,
+    "nhif": 150,
+    "nssf": 315.546046875,
+    "totalDeductions": 991.546046875
+  },
+  "netPay": 4267.554734375,
+  "status": "Paid",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-09T05:50:48.693Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-09T05:50:48.695Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-09T05:51:35.910Z"
+  },
+  "__v": 0,
+  "paidDate": {
+    "$date": "2025-08-09T05:51:35.910Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6896e1b85cf66533d1b66501"
+  },
+  "employee": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-07-31T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-08-30T21:00:00.000Z"
+    },
+    "month": 8,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 29,
+    "regularHours": 16,
+    "overtimeHours": 13,
+    "daysPresent": 2,
+    "daysLate": 0,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 100000000,
+    "hourlyRate": 625000,
+    "overtimeRate": 937500,
+    "regularPay": 10000000,
+    "overtimePay": 12187500,
+    "grossPay": 22187500
+  },
+  "deductions": {
+    "paye": 7727908,
+    "nhif": 1700,
+    "nssf": 1080,
+    "totalDeductions": 7730688
+  },
+  "netPay": 14456812,
+  "status": "Paid",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-09T05:50:48.703Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-09T05:50:48.704Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-09T05:51:26.322Z"
+  },
+  "__v": 0,
+  "paidDate": {
+    "$date": "2025-08-09T05:51:26.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a96bc34cd5cb9b673dd60f"
+  },
+  "employee": {
+    "$oid": "6889f540af0ead9956051ca9"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-06-30T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-07-30T21:00:00.000Z"
+    },
+    "month": 7,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 22,
+    "regularHours": 16,
+    "overtimeHours": 6.002883333333333,
+    "daysPresent": 1,
+    "daysLate": 1,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 50000,
+    "hourlyRate": 312.5,
+    "overtimeRate": 468.75,
+    "regularPay": 5000,
+    "overtimePay": 2813.8515625,
+    "grossPay": 7813.8515625
+  },
+  "deductions": {
+    "paye": 781,
+    "nhif": 300,
+    "nssf": 468.83109375,
+    "totalDeductions": 1549.83109375
+  },
+  "netPay": 6264.02046875,
+  "status": "Processed",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-23T07:20:35.712Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-23T07:20:35.741Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T07:20:35.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a96bc34cd5cb9b673dd615"
+  },
+  "employee": {
+    "$oid": "6889f59daf0ead9956051cda"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-06-30T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-07-30T21:00:00.000Z"
+    },
+    "month": 7,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 21.13,
+    "regularHours": 16,
+    "overtimeHours": 5.122408611111112,
+    "daysPresent": 2,
+    "daysLate": 0,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 70000,
+    "hourlyRate": 437.5,
+    "overtimeRate": 656.25,
+    "regularPay": 7000,
+    "overtimePay": 3361.5806510416674,
+    "grossPay": 10361.580651041668
+  },
+  "deductions": {
+    "paye": 1036,
+    "nhif": 400,
+    "nssf": 621.6948390625,
+    "totalDeductions": 2057.6948390625003
+  },
+  "netPay": 8303.885811979168,
+  "status": "Processed",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-23T07:20:35.864Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-23T07:20:35.867Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T07:20:35.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a96bc34cd5cb9b673dd61b"
+  },
+  "employee": {
+    "$oid": "688a72b94e7dbf883b0d2e7c"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-06-30T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-07-30T21:00:00.000Z"
+    },
+    "month": 7,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 22,
+    "regularHours": 16,
+    "overtimeHours": 6.002767777777779,
+    "daysPresent": 1,
+    "daysLate": 1,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 90000,
+    "hourlyRate": 562.5,
+    "overtimeRate": 843.75,
+    "regularPay": 9000,
+    "overtimePay": 5064.8353125,
+    "grossPay": 14064.8353125
+  },
+  "deductions": {
+    "paye": 1406,
+    "nhif": 500,
+    "nssf": 843.8901187499999,
+    "totalDeductions": 2749.89011875
+  },
+  "netPay": 11314.94519375,
+  "status": "Processed",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-23T07:20:35.879Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-23T07:20:35.880Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T07:20:35.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a96bc34cd5cb9b673dd621"
+  },
+  "employee": {
+    "$oid": "688a73104e7dbf883b0d2eb2"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-06-30T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-07-30T21:00:00.000Z"
+    },
+    "month": 7,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 18.02,
+    "regularHours": 14,
+    "overtimeHours": 4.016053055555556,
+    "daysPresent": 2,
+    "daysLate": 0,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 120000,
+    "hourlyRate": 750,
+    "overtimeRate": 1125,
+    "regularPay": 10500,
+    "overtimePay": 4518.0596875,
+    "grossPay": 15018.059687500001
+  },
+  "deductions": {
+    "paye": 1502,
+    "nhif": 600,
+    "nssf": 901.0835812500001,
+    "totalDeductions": 3003.08358125
+  },
+  "netPay": 12014.97610625,
+  "status": "Processed",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-23T07:20:35.889Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-23T07:20:35.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T07:20:35.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a96bc34cd5cb9b673dd627"
+  },
+  "employee": {
+    "$oid": "688a736a4e7dbf883b0d2ee8"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-06-30T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-07-30T21:00:00.000Z"
+    },
+    "month": 7,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 16,
+    "regularHours": 16,
+    "overtimeHours": 0,
+    "daysPresent": 1,
+    "daysLate": 1,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 100000,
+    "hourlyRate": 625,
+    "overtimeRate": 937.5,
+    "regularPay": 10000,
+    "overtimePay": 0,
+    "grossPay": 10000
+  },
+  "deductions": {
+    "paye": 1000,
+    "nhif": 400,
+    "nssf": 600,
+    "totalDeductions": 2000
+  },
+  "netPay": 8000,
+  "status": "Processed",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-23T07:20:35.899Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-23T07:20:35.901Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T07:20:35.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a96bc34cd5cb9b673dd62d"
+  },
+  "employee": {
+    "$oid": "688a73a74e7dbf883b0d2f1a"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-06-30T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-07-30T21:00:00.000Z"
+    },
+    "month": 7,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 9.25,
+    "regularHours": 8.25,
+    "overtimeHours": 1,
+    "daysPresent": 2,
+    "daysLate": 0,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 130000,
+    "hourlyRate": 812.5,
+    "overtimeRate": 1218.75,
+    "regularPay": 6703.125,
+    "overtimePay": 1218.75,
+    "grossPay": 7921.875
+  },
+  "deductions": {
+    "paye": 792,
+    "nhif": 300,
+    "nssf": 475.3125,
+    "totalDeductions": 1567.3125
+  },
+  "netPay": 6354.5625,
+  "status": "Processed",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-23T07:20:35.911Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-23T07:20:35.912Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T07:20:35.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a96bc34cd5cb9b673dd633"
+  },
+  "employee": {
+    "$oid": "688a75694e7dbf883b0d3174"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-06-30T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-07-30T21:00:00.000Z"
+    },
+    "month": 7,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 10.75,
+    "regularHours": 8,
+    "overtimeHours": 2.75,
+    "daysPresent": 1,
+    "daysLate": 0,
+    "daysAbsent": 1
+  },
+  "salaryBreakdown": {
+    "basicSalary": 60000,
+    "hourlyRate": 375,
+    "overtimeRate": 562.5,
+    "regularPay": 3000,
+    "overtimePay": 1546.875,
+    "grossPay": 4546.875
+  },
+  "deductions": {
+    "paye": 455,
+    "nhif": 150,
+    "nssf": 272.8125,
+    "totalDeductions": 877.8125
+  },
+  "netPay": 3669.0625,
+  "status": "Processed",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-23T07:20:35.921Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-23T07:20:35.922Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T07:20:35.922Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68a96bc34cd5cb9b673dd639"
+  },
+  "employee": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "payPeriod": {
+    "startDate": {
+      "$date": "2025-06-30T21:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2025-07-30T21:00:00.000Z"
+    },
+    "month": 7,
+    "year": 2025
+  },
+  "attendanceSummary": {
+    "totalHoursWorked": 31,
+    "regularHours": 16,
+    "overtimeHours": 15,
+    "daysPresent": 2,
+    "daysLate": 0,
+    "daysAbsent": 0
+  },
+  "salaryBreakdown": {
+    "basicSalary": 100000000,
+    "hourlyRate": 625000,
+    "overtimeRate": 937500,
+    "regularPay": 10000000,
+    "overtimePay": 14062500,
+    "grossPay": 24062500
+  },
+  "deductions": {
+    "paye": 8384158,
+    "nhif": 1700,
+    "nssf": 1080,
+    "totalDeductions": 8386938
+  },
+  "netPay": 15675562,
+  "status": "Processed",
+  "processedBy": {
+    "$oid": "688a79324e7dbf883b0d348e"
+  },
+  "processedDate": {
+    "$date": "2025-08-23T07:20:35.928Z"
+  },
+  "payslipGenerated": false,
+  "createdAt": {
+    "$date": "2025-08-23T07:20:35.929Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-23T07:20:35.929Z"
+  },
+  "__v": 0
+}]

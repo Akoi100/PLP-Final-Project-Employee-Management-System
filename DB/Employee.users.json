@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "email": "happiness@gmail.com",
+  "fullName": "Happiness Ngung'u",
+  "password": "$2b$10$sP6z51nu.GBSt4ri6KgNieViS2baTkMTz8tqwL/bBxPmejDlrejLq",
+  "profilePic": "",
+  "employeeStatus": "Active",
+  "phoneNumber": "+254712345678",
+  "role": "admin",
+  "position": "Sales Manager",
+  "department": {
+    "$oid": "6856d722ba089a99e0bcece8"
+  },
+  "leaveType": null,
+  "createdAt": {
+    "$date": "2025-06-21T16:00:38.957Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-21T16:00:38.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6859bdd1325880888d0a3745"
+  },
+  "email": "lewis@gmail.com",
+  "fullName": "Lewis Ouma",
+  "password": "$2b$10$foja3eL5uNwidA2wE3LTuOc4KWx/S.5GnTzmciWDBSq7rBh4Mg33W",
+  "profilePic": "",
+  "employeeStatus": "Active",
+  "phoneNumber": "+254115720771",
+  "role": "employee",
+  "position": "Sales Marketer",
+  "department": {
+    "$oid": "6856d722ba089a99e0bcece8"
+  },
+  "leaveType": null,
+  "createdAt": {
+    "$date": "2025-06-23T20:49:21.954Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-23T20:49:21.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a50913689c9ba4df320b2"
+  },
+  "email": "ecfwe@gmail.com",
+  "fullName": "dewe",
+  "password": "$2b$10$qHGk91ygFg0Mm3NdhTgZUO9e04CUVmHoGYDsiFwGNxRbaKhgbofhW",
+  "profilePic": "",
+  "employeeStatus": "Active",
+  "phoneNumber": "+254115720771",
+  "role": "employee",
+  "position": "Sales Marketer",
+  "department": {
+    "$oid": "6856d722ba089a99e0bcece8"
+  },
+  "leaveType": null,
+  "createdAt": {
+    "$date": "2025-06-24T07:15:29.042Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:15:29.042Z"
+  },
+  "__v": 0
+}]

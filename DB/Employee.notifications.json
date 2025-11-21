@@ -1,0 +1,1106 @@
+[{
+  "_id": {
+    "$oid": "685a4b4fefda1a5fafe73900"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Attendance Recorded",
+  "message": "Your attendance for Tue Jun 24 2025 has been marked as \"Present\".",
+  "type": "attendance",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T06:53:03.944Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:45:04.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a4ce207ffdbdb9bbee7a1"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Requested",
+  "message": "Your request for 5 day(s) of Bereavement Leave leave (from Tue Jun 24 2025) is pending approval.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T06:59:46.460Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:45:04.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a4cea07ffdbdb9bbee7ba"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 5-day 6859b4c8cb5fcdab403b72fc leave starting Tue Jun 24 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T06:59:54.325Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:45:04.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a4de84c4b20f1dca2f48a"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Requested",
+  "message": "Your request for 5 day(s) of Bereavement Leave leave (from Tue Jun 24 2025) is pending approval.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T07:04:08.675Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:45:04.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a4deb4c4b20f1dca2f4ac"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 5-day undefined leave starting Tue Jun 24 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T07:04:11.275Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:45:04.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a4e8429546e1a48e0147c"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Requested",
+  "message": "Your request for 5 day(s) of Bereavement Leave leave (from Tue Jun 24 2025) is pending approval.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T07:06:44.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:45:04.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a4e8a29546e1a48e01496"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 5-day Bereavement Leave leave starting Tue Jun 24 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T07:06:50.434Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:45:04.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a4fcefba90e0d1b491648"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Department Created",
+  "message": "Department “deqdeq” was created successfully.",
+  "type": "system",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T07:12:14.725Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:45:04.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a4fdffba90e0d1b491656"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Department Deleted",
+  "message": "Department “deqdeq” was deleted.",
+  "type": "system",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T07:12:31.305Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:45:04.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a50913689c9ba4df320b5"
+  },
+  "recipient": {
+    "$oid": "685a50913689c9ba4df320b2"
+  },
+  "sender": null,
+  "title": "Welcome Aboard!",
+  "message": "Hi dewe, your account has been set up in Sales.",
+  "type": "system",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T07:15:29.059Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:29:08.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a50913689c9ba4df320b7"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": {
+    "$oid": "685a50913689c9ba4df320b2"
+  },
+  "title": "New Employee Registered",
+  "message": "dewe has been added to Sales.",
+  "type": "system",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T07:15:29.062Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:45:04.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a526ed9b8086da2bcc2fd"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Type Created",
+  "message": "Leave type “cwec” (23 days) was created.",
+  "type": "system",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T07:23:26.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:45:04.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a527ad9b8086da2bcc30e"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Type Deleted",
+  "message": "Leave type “cwec” was deleted.",
+  "type": "system",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T07:23:38.133Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:45:04.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a57e988b0d6e4c0801e3c"
+  },
+  "recipient": {
+    "$oid": "6859bdd1325880888d0a3745"
+  },
+  "sender": null,
+  "title": "Leave Requested",
+  "message": "Your request for 5 day(s) of Bereavement Leave leave (from Tue Jun 24 2025) is pending approval.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T07:46:49.900Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:46:55.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a57fc88b0d6e4c0801e75"
+  },
+  "recipient": {
+    "$oid": "6859bdd1325880888d0a3745"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 5-day Bereavement Leave leave starting Tue Jun 24 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T07:47:08.455Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:47:12.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685a581488b0d6e4c0801ea0"
+  },
+  "recipient": {
+    "$oid": "6859bdd1325880888d0a3745"
+  },
+  "sender": null,
+  "title": "Attendance Recorded",
+  "message": "Your attendance for Tue Jun 24 2025 has been marked as \"Present\".",
+  "type": "attendance",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T07:47:32.128Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T07:47:40.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685aa20b40e23310b1c351f5"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Requested",
+  "message": "Your request for 5 day(s) of Bereavement Leave leave (from Tue Jun 24 2025) is pending approval.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T13:03:07.066Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T13:03:23.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685aa21540e23310b1c35217"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 5-day Bereavement Leave leave starting Tue Jun 24 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-24T13:03:17.369Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-24T13:03:23.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685d01ae7af215dcc809d043"
+  },
+  "recipient": {
+    "$oid": "6859bdd1325880888d0a3745"
+  },
+  "sender": null,
+  "title": "Attendance Recorded",
+  "message": "Your attendance for Thu Jun 26 2025 has been marked as \"Present\".",
+  "type": "attendance",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-26T08:15:43.012Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-26T08:18:26.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685d01b87af215dcc809d069"
+  },
+  "recipient": {
+    "$oid": "6859bdd1325880888d0a3745"
+  },
+  "sender": null,
+  "title": "Leave Requested",
+  "message": "Your request for 5 day(s) of Bereavement Leave leave (from Thu Jun 26 2025) is pending approval.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-26T08:15:52.124Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-26T08:18:26.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685d02287af215dcc809d0b2"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Type Created",
+  "message": "Leave type “Maternity” (180 days) was created.",
+  "type": "system",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-26T08:17:44.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-26T08:17:56.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685d024a7af215dcc809d113"
+  },
+  "recipient": {
+    "$oid": "6859bdd1325880888d0a3745"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 5-day Bereavement Leave leave starting Thu Jun 26 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-26T08:18:18.187Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-26T08:18:21.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685d02597af215dcc809d150"
+  },
+  "recipient": {
+    "$oid": "6859bdd1325880888d0a3745"
+  },
+  "sender": null,
+  "title": "Leave Approved",
+  "message": "Your 180 day(s) of Maternity leave (from Thu Jun 26 2025) has been auto-approved.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-06-26T08:18:33.896Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-26T08:18:54.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686ac25d7b77e82236e73287"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Requested",
+  "message": "Your request for 5 day(s) of Bereavement Leave leave (from Sun Jul 06 2025) is pending approval.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-06T18:37:17.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-06T18:37:23.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686ac26e7b77e82236e732c1"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 5-day Bereavement Leave leave starting Sun Jul 06 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-06T18:37:34.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-06T18:37:43.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686ac2b97b77e82236e73337"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Type Created",
+  "message": "Leave type “wdswdw” (2 days) was created.",
+  "type": "system",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-06T18:38:49.370Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-06T18:38:57.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686ac2bd7b77e82236e7334c"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Type Deleted",
+  "message": "Leave type “wdswdw” was deleted.",
+  "type": "system",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-06T18:38:53.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-06T18:38:58.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686ac2ce7b77e82236e73375"
+  },
+  "recipient": {
+    "$oid": "6859bdd1325880888d0a3745"
+  },
+  "sender": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "title": "ddwdw",
+  "message": "wdwdw",
+  "type": "system",
+  "isRead": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-06T18:39:10.147Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-06T18:39:58.460Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "686ac2ce7b77e82236e73376"
+  },
+  "recipient": {
+    "$oid": "685a50913689c9ba4df320b2"
+  },
+  "sender": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "title": "ddwdw",
+  "message": "wdwdw",
+  "type": "system",
+  "isRead": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-07-06T18:39:10.148Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:29:08.024Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68713924cdb2a9978e94df4a"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Approved",
+  "message": "Your 180 day(s) of Maternity leave (from Fri Jul 11 2025) has been auto-approved.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:17:40.598Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:18:09.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68713974cdb2a9978e94e010"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 180-day Maternity leave starting Fri Jul 11 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:19:00.761Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:19:03.852Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68713983cdb2a9978e94e044"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Attendance Recorded",
+  "message": "Your attendance for Fri Jul 11 2025 has been marked as \"Present\".",
+  "type": "attendance",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:19:15.272Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:11.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139b5cdb2a9978e94e097"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Approved",
+  "message": "Your 180 day(s) of Maternity leave (from Fri Jul 11 2025) has been auto-approved.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:05.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:11.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139b6cdb2a9978e94e0b8"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 180-day Maternity leave starting Fri Jul 11 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:06.490Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:11.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139b6cdb2a9978e94e0da"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Approved",
+  "message": "Your 180 day(s) of Maternity leave (from Fri Jul 11 2025) has been auto-approved.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:06.889Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:11.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139b7cdb2a9978e94e0fb"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 180-day Maternity leave starting Fri Jul 11 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:07.080Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:11.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139b7cdb2a9978e94e11d"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Approved",
+  "message": "Your 180 day(s) of Maternity leave (from Fri Jul 11 2025) has been auto-approved.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:07.307Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:11.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139b7cdb2a9978e94e13e"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 180-day Maternity leave starting Fri Jul 11 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:07.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:11.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139b7cdb2a9978e94e160"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Approved",
+  "message": "Your 180 day(s) of Maternity leave (from Fri Jul 11 2025) has been auto-approved.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:07.851Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:11.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139b8cdb2a9978e94e181"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 180-day Maternity leave starting Fri Jul 11 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:08.283Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:11.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139b9cdb2a9978e94e1a3"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Approved",
+  "message": "Your 180 day(s) of Maternity leave (from Fri Jul 11 2025) has been auto-approved.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:09.216Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:11.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139b9cdb2a9978e94e1c4"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 180-day Maternity leave starting Fri Jul 11 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:09.420Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:11.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139b9cdb2a9978e94e1e6"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Approved",
+  "message": "Your 180 day(s) of Maternity leave (from Fri Jul 11 2025) has been auto-approved.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:09.520Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:11.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139b9cdb2a9978e94e207"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 180-day Maternity leave starting Fri Jul 11 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:09.675Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:11.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139c6cdb2a9978e94e251"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Approved",
+  "message": "Your 180 day(s) of Maternity leave (from Fri Jul 11 2025) has been auto-approved.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:22.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:27.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139c6cdb2a9978e94e272"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 180-day Maternity leave starting Fri Jul 11 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:22.575Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:28.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139c6cdb2a9978e94e294"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Approved",
+  "message": "Your 180 day(s) of Maternity leave (from Fri Jul 11 2025) has been auto-approved.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:22.767Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:30.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139c6cdb2a9978e94e2b5"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 180-day Maternity leave starting Fri Jul 11 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:22.910Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:31.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687139c7cdb2a9978e94e2d7"
+  },
+  "recipient": {
+    "$oid": "6856d726ba089a99e0bcecec"
+  },
+  "sender": null,
+  "title": "Leave Approved",
+  "message": "Your 180 day(s) of Maternity leave (from Fri Jul 11 2025) has been auto-approved.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:20:23.044Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:20:31.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68713b71cdb2a9978e94e41b"
+  },
+  "recipient": {
+    "$oid": "685a50913689c9ba4df320b2"
+  },
+  "sender": null,
+  "title": "Leave Approved",
+  "message": "Your 180 day(s) of Maternity leave (from Fri Jul 11 2025) has been auto-approved.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:27:29.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:29:08.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68713b74cdb2a9978e94e43c"
+  },
+  "recipient": {
+    "$oid": "685a50913689c9ba4df320b2"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 180-day Maternity leave starting Fri Jul 11 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:27:32.668Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:29:03.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68713b76cdb2a9978e94e45d"
+  },
+  "recipient": {
+    "$oid": "685a50913689c9ba4df320b2"
+  },
+  "sender": null,
+  "title": "Leave Requested",
+  "message": "Your request for 5 day(s) of Bereavement Leave leave (from Fri Jul 11 2025) is pending approval.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:27:34.483Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:29:08.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68713b7bcdb2a9978e94e47f"
+  },
+  "recipient": {
+    "$oid": "685a50913689c9ba4df320b2"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 5-day Bereavement Leave leave starting Fri Jul 11 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:27:39.974Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:29:08.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68713b7ccdb2a9978e94e4a0"
+  },
+  "recipient": {
+    "$oid": "685a50913689c9ba4df320b2"
+  },
+  "sender": null,
+  "title": "Leave Requested",
+  "message": "Your request for 5 day(s) of Bereavement Leave leave (from Fri Jul 11 2025) is pending approval.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:27:40.854Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:29:08.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68713b82cdb2a9978e94e4c2"
+  },
+  "recipient": {
+    "$oid": "685a50913689c9ba4df320b2"
+  },
+  "sender": null,
+  "title": "Leave Cancelled",
+  "message": "Your 5-day Bereavement Leave leave starting Fri Jul 11 2025 was cancelled.",
+  "type": "leave",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2025-07-11T16:27:46.641Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-11T16:29:08.024Z"
+  },
+  "__v": 0
+}]

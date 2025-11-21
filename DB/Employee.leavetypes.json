@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6859b4c8cb5fcdab403b72fc"
+  },
+  "name": "Bereavement Leave",
+  "description": "Time off granted to employees to grieve and handle arrangements following the death of a close family member.",
+  "maxDays": 5,
+  "requiresApproval": true,
+  "createdAt": {
+    "$date": "2025-06-23T20:10:48.504Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-23T20:10:48.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685d02287af215dcc809d0b0"
+  },
+  "name": "Maternity",
+  "description": "Take of the new born",
+  "maxDays": 180,
+  "requiresApproval": false,
+  "createdAt": {
+    "$date": "2025-06-26T08:17:44.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-26T08:17:44.338Z"
+  },
+  "__v": 0
+}]
