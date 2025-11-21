@@ -50,10 +50,10 @@ or
     npm i
     npm run dev
 
-4. change directory into frontend install dependencies using npm i and run the app using npm run dev
+4. change directory into frontend install dependencies using **npm i** and run the app using **npm run dev**
     ```bash
     cd frontend
     npm i
-
     npm run dev
+
 
