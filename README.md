@@ -8,7 +8,8 @@ Built on a web-based architecture using Node.js and MongoDB, the AEMS prioritize
 
 **DEPLOYMENT LINK**
 
-Through the deployed link which will take 2-3 minutes to open the system; https://employee-management-system-iblm.onrender.com/login
+Please find attached deployment link which will take 2-3 minutes to open the system; 
+https://employee-management-system-iblm.onrender.com/login
 
 
 
@@ -18,6 +19,7 @@ Logins for:
 1. **Admin (HR);**
    email; happiness@gmail.com
    password; qwerty
+
 
 2. **Employee (normal user);**
    email; irene@gmail.com
